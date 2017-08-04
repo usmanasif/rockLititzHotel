@@ -1,0 +1,185 @@
+<div class="testimonials">
+    <div class="col-lg-12">
+        <div id="carouse2-example-generic" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#carouse2-example-generic" data-slide-to="0" class=""></li>
+                <li data-target="#carouse2-example-generic" data-slide-to="1" class=""></li>
+                <li data-target="#carouse2-example-generic" data-slide-to="2" class="active"></li>
+                <li data-target="#carouse2-example-generic" data-slide-to="3" class=""></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item">
+                    <div class="container">
+                        <div class="col-md-8 col-md-offset-2 testimonials-inner">
+                            <!-- Star Rating -->
+                            <ul class="star-rating">
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                            </ul>
+                            <!-- Paragraph -->
+                            <p>
+                                <em>"</em>
+                                Lorem ipsum dolor sit amet, nemore facete quo cu, sumo tincidunt pri ex, usu ubique
+                                percipitur ea. Ut fugit quaestio Lorem ipsum dolor sit amet, nemore facete quo cu, sumo
+                                tincidunt pri ex, usu ubique percipitur ea. Ut fugit quaestio
+                                <em>"</em>
+                            </p>
+                            <!-- Author Rate -->
+                            <div class="author-rate">
+                                <img src="./Hotel Empire - Hotel Reservation HTML Template_files/profile-01.jpg" alt="profile-01">
+                                <h4>Neymar Silva Mark</h4>
+                                <span>Customer</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="container">
+                        <div class="col-md-12 col-md-8 col-md-offset-2 testimonials-inner">
+                            <!-- Star Rating -->
+                            <ul class="star-rating">
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star-o"></i>
+                                </li>
+                            </ul>
+                            <!-- Paragraph -->
+                            <p>
+                                <em>"</em>
+                                Lorem ipsum dolor sit amet, nemore facete quo cu, sumo tincidunt pri ex, usu ubique
+                                percipitur ea. Ut fugit quaestio Lorem ipsum dolor sit amet, nemore facete quo cu, sumo
+                                tincidunt pri ex, usu ubique percipitur ea. Ut fugit quaestio
+                                <em>"</em>
+                            </p>
+                            <!-- Author Rate -->
+                            <div class="author-rate">
+                                <img src="./Hotel Empire - Hotel Reservation HTML Template_files/profile-02.jpg" alt="profile-02">
+                                <h4>Maria Morris</h4>
+                                <span>Customer</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item active">
+                    <div class="container">
+                        <div class="col-md-12 col-md-8 col-md-offset-2 testimonials-inner">
+                            <!-- Star Rating -->
+                            <ul class="star-rating">
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star-o"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star-o"></i>
+                                </li>
+                            </ul>
+                            <!-- Paragraph -->
+                            <p>
+                                <em>"</em>
+                                Lorem ipsum dolor sit amet, nemore facete quo cu, sumo tincidunt pri ex, usu ubique
+                                percipitur ea. Ut fugit quaestio Lorem ipsum dolor sit amet, nemore facete quo cu, sumo
+                                tincidunt pri ex, usu ubique percipitur ea. Ut fugit quaestio
+                                <em>"</em>
+                            </p>
+                            <!-- Author Rate -->
+                            <div class="author-rate">
+                                <img src="./Hotel Empire - Hotel Reservation HTML Template_files/profile-03.jpg" alt="profile-03">
+                                <h4>Alina Maikel</h4>
+                                <span>Customer</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="container">
+                        <div class="col-md-12 col-md-8 col-md-offset-2 testimonials-inner">
+                            <!-- Star Rating -->
+                            <ul class="star-rating">
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star"></i>
+                                </li>
+                                <li>
+                                    <i class="fa fa-star-o"></i>
+                                </li>
+                            </ul>
+                            <!-- Paragraph -->
+                            <p>
+                                <em>"</em>
+                                Lorem ipsum dolor sit amet, nemore facete quo cu, sumo tincidunt pri ex, usu ubique
+                                percipitur ea. Ut fugit quaestio Lorem ipsum dolor sit amet, nemore facete quo cu, sumo
+                                tincidunt pri ex, usu ubique percipitur ea. Ut fugit quaestio
+                                <em>"</em>
+                            </p>
+                            <!-- Author Rate -->
+                            <div class="author-rate">
+                                <img src="./Hotel Empire - Hotel Reservation HTML Template_files/profile-04.jpg" alt="profile-04">
+                                <h4>Silva Naymar Doe</h4>
+                                <span>Customer</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Controls -->
+            <a class="left carousel-control" href="http://hotel-empire.sohelrana.me/#carouse2-example-generic" role="button" data-slide="prev">
+              <span class="slider-mover-left" aria-hidden="true">
+                 <%= image_tag "chevron-left.png" %>
+              </span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="http://hotel-empire.sohelrana.me/#carouse2-example-generic" role="button" data-slide="next">
+                <span class="slider-mover-right" aria-hidden="true">
+                  <%= image_tag "chevron-right.png" %>
+                </span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>

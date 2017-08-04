@@ -1,4 +1,4 @@
-var videoWidth = $('iframe').width();
+/*var videoWidth = $('iframe').width();
 videoHeight = videoWidth * .61;
 $('iframe').css('height', videoHeight);
 
@@ -8,4 +8,4 @@ $('.thumb-preview').css('height', SingleRoomSliderdHeight);
 $('.imng-preview').css('height', SingleRoomSliderdHeight);
 
 // flatpickr Calendar configuration
-flatpickr(".flatpickr");
+flatpickr(".flatpickr");*/

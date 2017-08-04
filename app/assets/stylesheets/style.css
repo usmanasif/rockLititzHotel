@@ -52,19 +52,19 @@ body {
 }
 
 .logo {
-    padding: 15px 0px;
+    padding: 2px 0px;
     float: left;
 }
 
 
 .logo img{
-    height: 50px;
+    height: 65px;
 }
 
 .main-header .navbar-default .nav > li > a {
     position: relative;
     display: block;
-    padding: 26px 20px 26px;
+    padding: 22px 20px 20px;
     font-size: 11px;
     line-height: 28px;
     font-weight: 700;
@@ -122,17 +122,17 @@ body {
 }
 
 .banner .item-1 {
-    background: url('austin-prock-38611.jpg');
+    background: url('/assets/austin-prock-38611.jpg');
     background-size: cover;
 }
 
 .banner .item-2 {
-    background: url('jake-gard-1344.jpg');
+    background: url('/assets/megan-savoie-232969.jpg');
     background-size: cover;
 }
 
 .banner .item-3 {
-    background: url('anthony-delanoix-15928.jpg');
+    background: url('/assets/anthony-delanoix-15928.jpg');
     background-size: cover;
 }
 
@@ -826,7 +826,7 @@ span.flatpickr-weekday {
     width: 55px;
     height: 55px;
     line-height: 55px;
-    font-size: 27px;
+    font-size: 350%;
     display: inline-block;
 }
 
