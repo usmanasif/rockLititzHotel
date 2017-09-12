@@ -1,0 +1,30 @@
+<!-- Header Start -->
+<header class="main-header">
+    <div class="container">
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a href="<%=root_path%>" class="logo">
+                    <%= image_tag("logo.png")%>
+                </a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="<%=rooms_path%>">ACCOMMODATIONS</a></li>
+                    <li><a href="<%=amenities_path%>">AMENITIES</a></li>
+                    <li><a href="<%=root_path%>#fun-facts">FUN FACTS</a></li>
+                    <li><a href="#">About Us</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+            <!-- /.container -->
+        </nav>
+    </div>
+</header>
+<!-- Header End -->

@@ -122,17 +122,22 @@ body {
 }
 
 .banner .item-1 {
-    background: url('/assets/austin-prock-38611.jpg');
+    background: url('/assets/anthony-delanoix-15928.jpg');
     background-size: cover;
 }
 
 .banner .item-2 {
-    background: url('/assets/megan-savoie-232969.jpg');
+    background: url('/assets/relax-slider.jpg');
     background-size: cover;
 }
 
 .banner .item-3 {
-    background: url('/assets/anthony-delanoix-15928.jpg');
+    background: url('/assets/austin-prock-38611.jpg');
+    background-size: cover;
+}
+
+.banner .item-4 {
+    background: url('/assets/refresh.jpg');
     background-size: cover;
 }
 
